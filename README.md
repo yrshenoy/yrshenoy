@@ -21,6 +21,12 @@ A working, independent Java/Spring Boot/Vaadin proof of concept inspired by a pr
 
 [**Watch the architecture and live demo**](https://github.com/yrshenoy/IssuePilot/blob/main/docs/demo/IssuePilot-AI-Assisted-Engineering-Issue-Triage-Demo.mp4)
 
+### [Engineering Insights — Beyond the Metrics](https://github.com/yrshenoy/EngineeringInsights)
+
+A working, independent employee-contribution dashboard inspired by a tool I built for engineering development and performance conversations. Combines synthetic fiscal-year activity records with employee-specific access, drill-down views, and a deliberate emphasis on **mentorship, leadership, collaboration, and impact beyond activity counts**.
+
+[**Watch the engineering leadership and employee development demo**](https://github.com/yrshenoy/EngineeringInsights/blob/main/docs/demo/EngineeringInsights-Beyond-the-Metrics-No-Zoom-Tile.mp4)
+
 ### [CarrierMesh — Multi-Provider ERP Shipping Integration](https://github.com/yrshenoy/CarrierMesh)
 
 An independent, provider-neutral system and product-design case study covering multi-aggregator rate shopping, tenant security, carrier account management, labels, returns, reconciliation, tracking, and engineering trade-offs.
