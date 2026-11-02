@@ -25,7 +25,7 @@ A working, independent Java/Spring Boot/Vaadin proof of concept inspired by a pr
 
 A working, independent employee-contribution dashboard inspired by a tool I built for engineering development and performance conversations. Combines synthetic fiscal-year activity records with employee-specific access, drill-down views, and a deliberate emphasis on **mentorship, leadership, collaboration, and impact beyond activity counts**.
 
-[**Watch the engineering leadership and employee development demo**](https://github.com/yrshenoy/EngineeringInsights/blob/main/docs/demo/EngineeringInsights-Beyond-the-Metrics-No-Zoom-Tile.mp4)
+[**Watch the engineering leadership and employee development demo**](https://github.com/yrshenoy/EngineeringInsights/blob/main/docs/demo/EngineeringInsights-Beyond-the-Metrics-Demo.mp4)
 
 ### [CarrierMesh — Multi-Provider ERP Shipping Integration](https://github.com/yrshenoy/CarrierMesh)
 
